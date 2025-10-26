@@ -1,6 +1,3 @@
-Creating a README for an anomaly detection project using One-Class SVM (Support Vector Machine) is a great way to document your project and help others understand and use it. Below is a sample README template:
-
----
 
 # Anomaly Detection using One-Class SVM
 
